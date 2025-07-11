@@ -13,6 +13,9 @@ A clean, responsive, and modular **React application** featuring multiple pages 
 - 📱 **Responsive Design** built with Bootstrap 5
 
 ---
+## 🌐 Live Demo
+[React-App](https://garimakushh.github.io/React-App/)
+---
 
 ## 📌 Pages Overview
 
@@ -42,8 +45,11 @@ A clean, responsive, and modular **React application** featuring multiple pages 
 ---
 
 ## 📸 Results
+![image](https://github.com/Garimakushh/React-App/blob/25971cf77dbf2f1f7db7145789d5d6b438f77185/Results/Screenshot%20(14).png)
+![image](https://github.com/Garimakushh/React-App/blob/25971cf77dbf2f1f7db7145789d5d6b438f77185/Results/Screenshot%20(15).png)
+![image](https://github.com/Garimakushh/React-App/blob/25971cf77dbf2f1f7db7145789d5d6b438f77185/Results/Screenshot%20(19).png)
 
 ---
 
 ## 📫 Contact
-Garima kushwaha
+Garima kushwaha ❤️
